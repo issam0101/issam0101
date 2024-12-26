@@ -1,12 +1,13 @@
-<div align="center">
+<br clear="both">
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="160" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=issam0101&locale=en&mode=daily&theme=vue-dark&hide_border=false" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=issam0101&custom_title=CODING&theme=vue&hide_border=false&hide_title=false&radius=22" height="130" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issam0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&custom_title=CODE__ER" height="109" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... issam0101</h2>
+<h2 align="left">Hi 👋! My name is ... ISSAM RMIKI</h2>
 
 ###
 
