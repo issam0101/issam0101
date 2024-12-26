@@ -61,8 +61,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/issam0101/issam0101/output/snake.svg" alt="Snake animation" />
 
 ###
