@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ... issam0101</h2>
+<h2 align="center">Hi 👋! My name is ... ISSAM RMIKI</h2>
 
 ###
 
@@ -61,10 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/issam0101/issam0101/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91OXowazRzdGE3NTFodnRid2VkNXF6aXJhMXYybjhiZ3RucW53cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp"  />
 </div>
@@ -79,5 +75,11 @@
 <br clear="both">
 
 <h2 align="center">Welcome to my account</h2>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=issam0101.issam0101&"  />
+</div>
 
 ###
