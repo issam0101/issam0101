@@ -37,8 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issam0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&custom_title=CODE__ER" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -75,11 +74,5 @@
 <br clear="both">
 
 <h2 align="center">Welcome to my account</h2>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=issam0101.issam0101&"  />
-</div>
 
 ###
