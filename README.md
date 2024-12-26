@@ -1,17 +1,12 @@
-<br clear="both">
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="160" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issam0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&custom_title=CODE__ER" height="109" alt="languages graph"  />
-</div>
+<h2 align="center">Hi 👋! My name is ... issam0101</h2>
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... ISSAM RMIKI</h2>
+<h2 align="center">The programming language I work with is</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -39,19 +34,28 @@
 
 ###
 
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91OXowazRzdGE3NTFodnRid2VkNXF6aXJhMXYybjhiZ3RucW53cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issam0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&custom_title=CODE__ER" height="200" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="left">
+<h2 align="center">Social networking site</h2>
+
+###
+
+<div align="center">
   <a href="https://ma.linkedin.com/in/issam-rmiki-a50a32312" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#sent" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/idrsonmrx/profilecard/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo"  />
   </a>
 </div>
 
@@ -63,6 +67,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91OXowazRzdGE3NTFodnRid2VkNXF6aXJhMXYybjhiZ3RucW53cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp"  />
+</div>
+
+###
+
 <div align="left">
 </div>
 
@@ -70,6 +80,6 @@
 
 <br clear="both">
 
-<h2 align="center">WEB DEVELOPER</h2>
+<h2 align="center">Welcome to my account</h2>
 
 ###
