@@ -38,6 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=issam0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=issam0101&locale=en&mode=daily&theme=highcontrast&hide_border=true" height="149" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issam0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true&custom_title=CODE%20ER" height="200" alt="languages graph"  />
 </div>
 
